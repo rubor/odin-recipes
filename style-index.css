@@ -1,0 +1,17 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.header {
+    color: rgb(255, 203, 125);
+    background-color: rgb(62, 207, 159);
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list {
+    text-align: left;
+    font-style: italic;
+}
